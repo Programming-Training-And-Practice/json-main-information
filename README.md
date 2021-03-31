@@ -1,4 +1,4 @@
-# JSON Main Information.
+# JavaScript Object Notation JSON.
 
 
 
