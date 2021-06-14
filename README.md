@@ -53,4 +53,11 @@
 
 
 
+##
+* Jackson. create and initialize fields by constructor.
+* Gson. create and initialize fields by reflection.
+* Moshi.
+* 
+
+
 ## Help.
